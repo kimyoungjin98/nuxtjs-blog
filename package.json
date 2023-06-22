@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-blog",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@prisma/client": "^4.16.0",
+    "bcrpyt": "^2.0.0"
+  }
+}
