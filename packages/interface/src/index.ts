@@ -6,3 +6,4 @@ export * from './dtos/category';
 
 // types
 export * from './types/token';
+export * from './types/pagination';

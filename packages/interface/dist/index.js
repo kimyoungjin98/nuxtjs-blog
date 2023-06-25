@@ -20,4 +20,5 @@ __exportStar(require("./dtos/post"), exports);
 __exportStar(require("./dtos/category"), exports);
 // types
 __exportStar(require("./types/token"), exports);
+__exportStar(require("./types/pagination"), exports);
 //# sourceMappingURL=index.js.map
