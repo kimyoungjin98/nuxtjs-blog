@@ -12,6 +12,9 @@ const routes: Routes = [
 
 @Module({
 	imports: [
+		AuthModule,
+		PostModule,
+		PostCategoryModule,
 		RouterModule.register(routes),
 	],
 	exports: [RouterModule]

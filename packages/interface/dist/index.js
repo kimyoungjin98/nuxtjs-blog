@@ -18,4 +18,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./dtos/user"), exports);
 __exportStar(require("./dtos/post"), exports);
 __exportStar(require("./dtos/category"), exports);
+// types
+__exportStar(require("./types/token"), exports);
 //# sourceMappingURL=index.js.map
